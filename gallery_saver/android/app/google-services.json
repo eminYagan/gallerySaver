@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663500872923",
+    "project_id": "gallerysaver-c3c53",
+    "storage_bucket": "gallerysaver-c3c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663500872923:android:da34f67d61041319ba80fe",
+        "android_client_info": {
+          "package_name": "com.example.gallery_saver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8pYraPsOytB-uCVbwQFwCDtYM2o_m0nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
